@@ -1,0 +1,99 @@
+.top-body{
+  background-color:hsl(225, 100%, 94%);
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    top:0;
+    bottom: 0;
+
+}
+.body{
+  text-align: center;
+  font-family: 'Red Hat Display', sans-serif;
+}
+.text-one{
+  width: 70%;
+  margin: 0 auto 0 auto;
+  font-family: 'Red Hat Display', sans-serif;
+}
+.box-change{
+  margin: 0 auto 0 auto;
+width: 80%;
+height: 90px;
+background-color: hsl(225, 100%, 98%);
+border-radius: 5px;
+margin-bottom: 40px;
+font-family: 'Red Hat Display', sans-serif;
+}
+
+.p{
+  margin: 0;
+
+}
+.icon{
+  margin: 0 auto 0 auto;
+  float: left;
+margin-top: 8%;
+margin-left: 10px;
+    margin-right: 20px;
+}
+.middle-body{
+  text-align: center;
+  position: relative;
+  margin: 0 auto 0 auto;
+  top: 100px;
+  display: block;
+  width: 23.75rem;
+  height: 34.37rem;
+  background-color: white;
+  border-radius: 20px;
+}
+.img-background{
+  position: absolute;
+  width: 100%;
+
+  /* left: 0; */
+  /* top: 0; */
+}
+.img-2{
+  width: 100%;
+  border-radius: 20px 20px 0 0;
+}
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Georgia;
+
+  font-size: 16px;
+
+  background: hsl(245, 75%, 52%);
+  color: white;
+  padding: 10px 80px 10px 80px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background-color:hsl(225, 100%, 94%);
+  /* text-decoration: none; */
+}
+.a-left{
+  padding-left: 70px;
+}
+.cancel-model{
+  color: hsl(224, 23%, 55%);
+  position: relative;
+    top: 30px;
+    text-decoration: none;
+
+}
+.cancel-model:hover{
+  color: black;
+
+}
+.a-left:hover{
+  text-decoration: none;
+  color: hsl(224, 23%, 55%);
+}
